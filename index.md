@@ -1,15 +1,11 @@
 # もにゃ ヘルプ
 
 ## 日本語
+下記の外部サイト 「[モナキュレーション](https://monacuration.com)」 は暗号通貨ウォレット 「[もにゃ](https://monya-wallet.github.io)」 の公認サイトです。
 
-- [インストールガイド](monya_install_1.2.pdf)
+- [もにゃの使い方 完全ガイド (外部サイトへ飛びます)](https://monacuration.com/page-853)
 
-- [会計ガイド](monya_kaikei_1.2.pdf)
-
-- [ウォレットを復元する方法](monya_recovery_1.2.pdf)
-
-- [暗号通貨決済を導入する事業者の方へ](store_flyer.pdf)
-
+- [よくある質問 (外部サイトへ飛びます)](https://monacuration.com/page-853/#mnt14)
 
 ## English
 
@@ -18,3 +14,4 @@
 - [Payment Guide](monya_PAYMENT_EN_1.2.pdf)
 
 - [How to recover a wallet](monya_recovery_EN_1.2.pdf)
+
